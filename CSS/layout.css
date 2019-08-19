@@ -6,11 +6,9 @@
 .bottom{
     width: 480px;
     height: auto;
+    background-color: bisque;
 }
 
-div {
-    /* background-color: bisque; */
-}
-.short{
-    
+.top{
+    background-color: blueviolet;
 }
